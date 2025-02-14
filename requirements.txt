@@ -1,3 +1,7 @@
+flask
+gunicorn
+requests
+flask-cors
 annotated-types==0.7.0
 blinker==1.8.2
 blis==1.2.0
