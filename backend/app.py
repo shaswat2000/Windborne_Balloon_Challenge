@@ -11,7 +11,6 @@ import numpy as np
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_KEY = "7352488c1be55ffced8fa8388d87bf5a"
 WINDBORNE_URL = "https://a.windbornesystems.com/treasure"
 
 hours_data = 22
